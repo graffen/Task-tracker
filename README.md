@@ -22,8 +22,8 @@ A feature-rich task tracker application built using React, Redux, and SCSS. It i
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-redux-dnd-task-tracker.git
-    cd react-redux-dnd-task-tracker
+    git clone https://github.com/graffen/Task-tracker.git
+    cd Task-tracker
     ```
 
 2. **Install the dependencies:**
