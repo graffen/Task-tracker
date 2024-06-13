@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+
+  &.light {
+    background-color: #ffffff;
+    color: #000000;
+
+    main {
+      background-color: #f5f5f5;
+    }
+  }
+
+  &.dark {
+    background-color: #333333;
+    color: #ffffff;
+
+    main {
+      background-color: #444444;
+    }
+  }
+}
